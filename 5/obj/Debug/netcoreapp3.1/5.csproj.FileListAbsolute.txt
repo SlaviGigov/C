@@ -1,0 +1,14 @@
+C:\Users\SP\Desktop\ReSkill\Tasks\Task 02-07\5\bin\Debug\netcoreapp3.1\5.exe
+C:\Users\SP\Desktop\ReSkill\Tasks\Task 02-07\5\bin\Debug\netcoreapp3.1\5.deps.json
+C:\Users\SP\Desktop\ReSkill\Tasks\Task 02-07\5\bin\Debug\netcoreapp3.1\5.runtimeconfig.json
+C:\Users\SP\Desktop\ReSkill\Tasks\Task 02-07\5\bin\Debug\netcoreapp3.1\5.runtimeconfig.dev.json
+C:\Users\SP\Desktop\ReSkill\Tasks\Task 02-07\5\bin\Debug\netcoreapp3.1\5.dll
+C:\Users\SP\Desktop\ReSkill\Tasks\Task 02-07\5\bin\Debug\netcoreapp3.1\5.pdb
+C:\Users\SP\Desktop\ReSkill\Tasks\Task 02-07\5\obj\Debug\netcoreapp3.1\5.csproj.AssemblyReference.cache
+C:\Users\SP\Desktop\ReSkill\Tasks\Task 02-07\5\obj\Debug\netcoreapp3.1\5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SP\Desktop\ReSkill\Tasks\Task 02-07\5\obj\Debug\netcoreapp3.1\5.AssemblyInfoInputs.cache
+C:\Users\SP\Desktop\ReSkill\Tasks\Task 02-07\5\obj\Debug\netcoreapp3.1\5.AssemblyInfo.cs
+C:\Users\SP\Desktop\ReSkill\Tasks\Task 02-07\5\obj\Debug\netcoreapp3.1\5.csproj.CoreCompileInputs.cache
+C:\Users\SP\Desktop\ReSkill\Tasks\Task 02-07\5\obj\Debug\netcoreapp3.1\5.dll
+C:\Users\SP\Desktop\ReSkill\Tasks\Task 02-07\5\obj\Debug\netcoreapp3.1\5.pdb
+C:\Users\SP\Desktop\ReSkill\Tasks\Task 02-07\5\obj\Debug\netcoreapp3.1\5.genruntimeconfig.cache
